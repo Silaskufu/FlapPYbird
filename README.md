@@ -28,6 +28,6 @@ To start the game, run:
   `Python main.py`
 
 ## Themes
-  Bird Theme: Classic pipes as obstacles.
-  Plane Theme: Buildings as obstacles.
-  Mexbird Theme: Burritos as obstacles.
+- Bird Theme: Classic pipes as obstacles.
+- Plane Theme: Buildings as obstacles.
+- Mexbird Theme: Burritos as obstacles.
