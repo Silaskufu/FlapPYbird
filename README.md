@@ -3,7 +3,7 @@ This repository contains a Flappybird project with three different themes writte
 This also includes some assets that have been drawn by myself. Feel free to use these Assets for your own Project.
 
 ## Introduction
-FlapPYbird is a fun version of the classic Flappybird game with three themes: Bird, Plane, and Mexbird. Each theme has unique obstacles and animations.
+This FlapPYbird is a fun version of the classic Flappybird game with three themes: Bird, Plane, and Mexbird. Each theme has unique obstacles and animations.
 
 ## Features
 - Three themes: Bird, Plane, and Mexbird.
@@ -16,7 +16,7 @@ FlapPYbird is a fun version of the classic Flappybird game with three themes: Bi
   `git clone https://github.com/Silaskufu/FlapPYbird.git`
 
 - Navigate to the project directory:
-  `cd FlaapPYbird`
+  `cd FlapPYbird`
   
 - (Optional) Create and activate a virtual environment:
   `python -m venv venv`
