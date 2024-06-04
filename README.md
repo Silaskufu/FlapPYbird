@@ -13,18 +13,19 @@ FlapPYbird is a fun version of the classic Flappybird game with three themes: Bi
 
 ## Installation
 - Clone the repository:
-  git clone https://github.com/yourusername/FlapPYbird.git
+  `git clone https://github.com/Silaskufu/FlapPYbird.git`
 
 - Navigate to the project directory:
-  cd FlaapPYbird
+  `cd FlaapPYbird`
   
 - (Optional) Create and activate a virtual environment:
-  python -m venv venv
-  source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+  `python -m venv venv`
+  `source venv/bin/activate`
+  On Windows use `venv\Scripts\activate`
   
 ## Usage
 To start the game, run:
-  Python main.py
+  `Python main.py`
 
 ## Themes
   Bird Theme: Classic pipes as obstacles.
